@@ -1,0 +1,6 @@
+wp-content/uploads/
+wp-content/upgrade/
+wp-content/plugins/
+wp-content/themes/
+wp-config.php
+.htaccess
